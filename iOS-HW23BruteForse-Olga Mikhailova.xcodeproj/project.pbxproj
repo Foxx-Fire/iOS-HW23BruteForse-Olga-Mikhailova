@@ -14,7 +14,7 @@
 		0BA7CEB82ED33FB1002EDD6D /* Exceptions for "iOS-HW23BruteForse-Olga Mikhailova" folder in "iOS-HW23BruteForse-Olga Mikhailova" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				Resources/Info.plist,
 			);
 			target = 0BA7CEA52ED33FAF002EDD6D /* iOS-HW23BruteForse-Olga Mikhailova */;
 		};
@@ -147,10 +147,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 58NQ7DA6UP;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "iOS-HW23BruteForse-Olga Mikhailova/Info.plist";
+				INFOPLIST_FILE = "iOS-HW23BruteForse-Olga Mikhailova/Resources/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -179,10 +178,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 58NQ7DA6UP;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "iOS-HW23BruteForse-Olga Mikhailova/Info.plist";
+				INFOPLIST_FILE = "iOS-HW23BruteForse-Olga Mikhailova/Resources/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
