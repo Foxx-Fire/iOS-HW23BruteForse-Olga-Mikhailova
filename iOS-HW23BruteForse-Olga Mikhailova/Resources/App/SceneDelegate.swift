@@ -1,0 +1,27 @@
+//
+//  SceneDelegate.swift
+//  iOS-HW23BruteForse-Olga Mikhailova
+//
+//  Created by FoxxFire on 23.11.2025.
+//
+
+import UIKit
+
+class SceneDelegate: UIResponder, UIWindowSceneDelegate {
+    
+    var window: UIWindow?
+    
+    
+    func scene(
+        _ scene: UIScene,
+        willConnectTo session: UISceneSession,
+        options connectionOptions: UIScene.ConnectionOptions
+    ) {
+        
+        guard let windowScene = (scene as? UIWindowScene) else { return }
+        window = UIWindow(windowScene: windowScene)
+        
+        window?.rootViewController = BruteForseViewController()
+        window?.makeKeyAndVisible()
+    }
+}
